@@ -9,9 +9,6 @@ image: assets/img/ogp.png # This image used for Open Graph more info https://ogp
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
-# Google Analytics
-google_analytics: G-BR7GE0LRR7
-
 # Profile settings
 author:
   name: Jekyll Klisé # author name
@@ -109,3 +106,6 @@ whitelist:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-postfiles
+
+# Google Analytics
+google_analytics: G-BR7GE0LRR7
