@@ -85,8 +85,24 @@ exclude:
   - klise-*.gem
   - klise.gemspec
 
-# Plugins
+# Plugins (previously gems:)
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-postfiles
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-archives
+  - jekyll-seo-tag
   - jekyll-postfiles
