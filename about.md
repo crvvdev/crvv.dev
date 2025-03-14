@@ -1,18 +1,31 @@
 ---
-title: Colophon
+title: About me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello my name is Ricardo Carvalho, i am a Game Security Specialist, Software Engineer and Security Software Engineer.
+    Passionate about operating system internals, anti-cheat solutions and malware and rootkit-like analysis.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hello my name is Ricardo Carvalho, i am a Game Security Specialist, Software Engineer and Security Software Engineer.
 
-If you have a question about him or else, just send a letter to him.
+I was a very curious kid when came to technology and i have been browsing game hacking forums since 2011/12 which ultimately gave me all the knowledge that i know today.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+C/C++ is what i feel more confortable and productive with, i have a little bit of experience with Rust as well. C# is another language that i love working with even tho i am not really a front-end/UI developer, i consider myself a pure low-level engineer. 
 
-**may u needs ✨**
+On day-to-day basis i am constantly using IDA for reverse engineering and WinDbg/x64dbg/Visual Studio for debugging.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Windows is and will always be my workplace but i have some experience with Linux too like setting up KVMs, and some other general stuff. 
+
+I have worked and am familiar with: git, cross-platform compiling, Docker containers, CI/CD workflows (Github Actions), Windows kernel driver development and debugging, Virtual machines (Hyper-V/VMware), software packing and virtualization (like VMProtect/Themida), data serialization and encryption, and much more things... 
+
+If you're interested, then please [Contact Me](#contact)
+
+## Contact
+
+If you find no luck reaching me out on my socials, then email me and i will most likely reply as fast as i can.
+
+- [Email me](mailto:{{ site.author.email }})
+- [GitHub](https://github.com/{{ site.author.github }})
+- [X (Twitter)](https://x.com/crvvdev)
+- [Telegram](https://t.me/crvvdev)
